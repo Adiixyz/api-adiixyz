@@ -10,8 +10,8 @@ var zahirr = db.get("zahirr");
 	console.log('')
 }
 
-var creatorList = ['Recoder\'s Area','Caliph','Recoder\'s Area','Caliph','Recoder\'s Area','Caliph','Recoder\'s Area','Caliph'];
-var creator = "Recorder's Area"
+var creatorList = ['Adiixyz','Fazone'];
+var creator = "Adiixyz"
 
 
 const
